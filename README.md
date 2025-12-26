@@ -39,9 +39,15 @@ GNU General Puclic Licensing
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
+
+## Notes
+This repo is constantly being worked on. If you haveissues or need assistance please communicate in our discussions and report issues and bugs. You are the ones that keep this comunity going, thank you!
  
 ## Credits
 - Momentum Firmware
 - Xtreme Firmware
 - [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 - [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
+
+
+**If you found this repository useful, star this repository!**
