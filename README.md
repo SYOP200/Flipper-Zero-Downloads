@@ -5,7 +5,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)
 - [GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)
 - [Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)
-- [Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/SubGhz.)
+- [Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20ghz.%20files)
 - 
 
 ## HOW TO INSTALL
