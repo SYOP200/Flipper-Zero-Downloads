@@ -48,6 +48,7 @@ You are the ones that keep this comunity going, thank you!
  
 ## Credits
 - Momentum Firmware
+- SubSpectra Firmware
 - Xtreme Firmware
 - [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 - [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
