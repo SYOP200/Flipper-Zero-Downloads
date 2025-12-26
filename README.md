@@ -40,3 +40,4 @@ GNU General Puclic Licensing
 - Momentum Firmware
 - Xtreme Firmware
 - [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
+- [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
