@@ -3,9 +3,10 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 
 ## Downloads
 - [Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)
-- [](url)
-- [](url)
-- [](url)
+- [GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)
+- [Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)
+- [Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/SubGhz.)
+- 
 
 ## HOW TO INSTALL
 The process of installing these frequencys are easy and efective and require no other software besides the Qflipper app and YOUR OWN Flipper Zero.
@@ -30,6 +31,7 @@ Users are at fault of these rules.
 Check local laws before using these files.
 
 ## License 
+GNU General Puclic Licensing 
 
 
 ## Credits
