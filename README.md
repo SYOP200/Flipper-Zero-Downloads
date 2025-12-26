@@ -49,6 +49,7 @@ This repo is constantly being worked on. If you haveissues or need assistance pl
 - Xtreme Firmware
 - [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 - [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
+- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
 
 
 **If you found this repository useful, star this repository!**
