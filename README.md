@@ -37,8 +37,8 @@ Check local laws before using these files.
 ## License 
 GNU General Puclic Licensing 
 
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
+ Everyone is permitted to copy and distribute verbatim copies <br>
  of this license document, but changing it is not allowed.
 
 ## Notes
@@ -52,7 +52,7 @@ This repo is constantly being worked on. If you haveissues or need assistance pl
 - [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
 
 ### Contributers
-- Files gathered by @SYOP200
+- Files gathered by @SYOP200 <br>
 <div>
    
 </div>
