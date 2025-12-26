@@ -42,7 +42,9 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
  of this license document, but changing it is not allowed.
 
 ## Notes
-This repo is constantly being worked on. If you haveissues or need assistance please communicate in our discussions and report issues and bugs. You are the ones that keep this comunity going, thank you!
+This repo is constantly being worked on. <br> 
+If you have issues or need assistance please communicate in our discussions and report issues and bugs.<br> 
+You are the ones that keep this comunity going, thank you!
  
 ## Credits
 - Momentum Firmware
