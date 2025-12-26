@@ -7,6 +7,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)
 - [Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20ghz.%20files)
 - [Infared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infared)
+- [NFC](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/NFC)
 
 ## HOW TO INSTALL
 The process of installing these frequencys are easy and efective and require no other software besides the Qflipper app and YOUR OWN Flipper Zero.
