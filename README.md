@@ -36,4 +36,5 @@ GNU General Puclic Licensing
 
 ## Credits
 - Momentum Firmware
-- 
+- Xtreme Firmware
+- [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
