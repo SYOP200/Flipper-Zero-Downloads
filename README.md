@@ -20,3 +20,6 @@ DO NOT test on other peoples belongings. Only use YOUR hardware, doing otherwise
 We are not responsible for any damage caused by these files. 
 Users are at fault of these rules.
 Check local laws before using these files.
+## Credits
+- Momentum Firmware
+- 
