@@ -1,10 +1,17 @@
 ## FLIPPER ZERO DOWNLOADS
 A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some custom firmware and apps! 
 <img width="1396" height="335" alt="pixil-frame-0" src="https://github.com/user-attachments/assets/6b7dfb4e-4581-4d3c-9394-dc3476cb59d7" />
+<div align="center">
+  
+  ### *Made by developers for developers*
+  
+  ![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 
-
-
+<div align="left"
+---
+   
 ## Downloads
+
 - [Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)
 - [GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)
 - [Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)
@@ -15,7 +22,8 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)
 - [RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)
 
-## HOW TO INSTALL
+
+## How To Install
 The process of installing these frequencys are easy and efective and require no other software besides the Qflipper app and YOUR OWN Flipper Zero.
 
 1. Open the Qflipper app on desktop or wherever you have downloaded the files.
@@ -25,7 +33,7 @@ The process of installing these frequencys are easy and efective and require no 
 Then test out your new apps, firmware, and more!
 
 
-## TERMS OF USE
+## Terms of Use
 Warning
 
 This software is intended solely for experimental purposes and is not meant for any illegal activities. We do not condone unlawful behavior and strongly encourage you to use it only within the bounds of the law.
