@@ -1,5 +1,8 @@
 ## FLIPPER ZERO DOWNLOADS
 A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some custom firmware and apps! 
+<img width="1396" height="335" alt="pixil-frame-0" src="https://github.com/user-attachments/assets/6b7dfb4e-4581-4d3c-9394-dc3476cb59d7" />
+
+
 
 ## Downloads
 - [Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)
