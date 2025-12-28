@@ -60,6 +60,7 @@ You are the ones that keep this comunity going, thank you!
 - [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 - [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
 - [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
+- UberGuidos -Various files
 
 ### Contributers
 - Files gathered by @SYOP200 <br>
