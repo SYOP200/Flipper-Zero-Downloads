@@ -1,4 +1,4 @@
-<img width="1396" height="335" alt="pixil-frame-0" src="https://github.com/user-attachments/assets/6b7dfb4e-4581-4d3c-9394-dc3476cb59d7" />
+<img width="1024" height="246" alt="pixil-frame-0-4" src="https://github.com/user-attachments/assets/0b4770bc-bd89-433e-9c79-e38b815bfbeb" />
   
   ![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ## FLIPPER ZERO DOWNLOADS
