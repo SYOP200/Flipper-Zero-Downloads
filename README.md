@@ -1,10 +1,11 @@
+<h3>
 <img width="1024" height="246" alt="pixil-frame-0-4" src="https://github.com/user-attachments/assets/0b4770bc-bd89-433e-9c79-e38b815bfbeb" />
   
   ![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ## FLIPPER ZERO DOWNLOADS
 A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some custom firmware and apps! 
+<h3>
 
----
    
 ## Downloads
 
@@ -18,6 +19,17 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)
 - [RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)
 
+## Terms of Use
+>[!Warning]
+>
+> This software is intended solely for experimental purposes and is not meant for any illegal activities. We do not condone unlawful behavior and strongly encourage you to use it only within the bounds of the law. <br>
+>
+> This project is developed independently and is not affiliated with Flipper Devices. <br>
+>
+> DO NOT test on other peoples belongings. Only use YOUR hardware, doing otherwise is ILLEGAL! <br>
+> We are not responsible for any damage caused by these files. <br>
+> Users are at fault of these rules. <br>
+> Check local laws before using these files. <br>
 
 ## How To Install
 The process of installing these frequencys are easy and efective and require no other software besides the Qflipper app and YOUR OWN Flipper Zero.
@@ -29,17 +41,6 @@ The process of installing these frequencys are easy and efective and require no 
 Then test out your new apps, firmware, and more!
 
 
-## Terms of Use
-Warning
-
-This software is intended solely for experimental purposes and is not meant for any illegal activities. We do not condone unlawful behavior and strongly encourage you to use it only within the bounds of the law.
-
-This project is developed independently and is not affiliated with Flipper Devices.
-
-DO NOT test on other peoples belongings. Only use YOUR hardware, doing otherwise is ILLEGAL!
-We are not responsible for any damage caused by these files. 
-Users are at fault of these rules.
-Check local laws before using these files.
 
 ## License 
 GNU General Puclic Licensing 
