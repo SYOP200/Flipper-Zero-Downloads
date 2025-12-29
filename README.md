@@ -54,9 +54,9 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 
 ### Method 1: Copy Files to SD Card
 
-Directly copying the files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly.
+Directly copying the files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly. <br>
 
-1. [Download and extract](https://github.com/logickworkshop/Flipper-IRDB/archive/refs/heads/main.zip) or [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo to your computer.
+1. Download and extract or [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo to your computer.
 2. Open the downloaded / cloned repository in a File Explorer.
 3. [Dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) from the Flipper and mount it to your computer
 4. Copy the desired files from the repo to the `(file type)` folder on your SD Card
@@ -68,7 +68,7 @@ Directly copying the files to the Flipper's SD card is the fastest and safest me
 > Because of Flipper limitations, the transfer via QFlipper can take a long time, depending on how many files you want to copy.
 > If you only want to copy several files, this will work fine, but if you want to load the entire repo. onto your Flipper, **I strongly recommend copying the files directly onto the SD card**.
 
-1. [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [Download and extract](https://github.com/logickworkshop/Flipper-IRDB/archive/refs/heads/main.zip) this repository to your computer.
+1. [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or Download and extract this repository to your computer.
 2. Connect your Flipper to your PC using a USB-C cable.
 3. Open [QFlipper](https://flipperzero.one/update)
 4. Verify that your Flipper shows "Connected"
