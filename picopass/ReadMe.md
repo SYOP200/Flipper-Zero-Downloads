@@ -4,7 +4,9 @@
 ## Picopass
 # These files are now included in the firmware
 
+## What is picopass?
 
+PicoPass is a family of secure, multi-standard contactless RFID chips (like HID iClass) known for dual-protocol support (ISO 14443B for speed/proximity, ISO 15693 for longer range) and multi-application capabilities, offering features like cryptography, large memory, and fast anti-collision for access control, e-purses, and loyalty programs, effectively blending secure proximity and extended-range ID. 
 -----
 
 
