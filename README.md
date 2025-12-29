@@ -13,7 +13,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)
 - [Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)
 - [Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20ghz.%20files)
-- [Infared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infared)
+- [Infrared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infared)
 - [NFC](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/NFC)
 - [BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)
 - [Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)
