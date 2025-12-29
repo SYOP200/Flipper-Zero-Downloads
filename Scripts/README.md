@@ -5,8 +5,15 @@
 The Flipper Zero is able to run Jvascript files through the `scripts` application.
 |File|Description|
 |-|-|
-|`Fun/Parrot_X.txt`|Party parrot for OSX / Windows.|
-|`Fun/RickRoll_Term_X.txt`|Rick Roll for OSX / Windows terminal.|
-|`Fun/RickRoll_YT_X.txt`|Rick Roll for OSX / Windows using YouTube.|
-|`Passwords/Saved_Passwords_Win.txt`|Extracts passwords from Windows.|
-|`Passwords/WiFi_Passwords_Win.txt`|Extracts WiFi passwords from Windows.|
+|`chrome-pass-stealer.txt`|Password stealer used in chrome.|
+|`saved_passwords.txt`|Searches for saved passwords on a device.|
+|`WiFi_passwords_win.txt`|Captures saved WIFI passwords on a device.|
+|`RickRoll_YT_Win.txt`|Redirects a user's interface to "Never Gonna Give You Up" on Youtube
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `Scripts` folder
+4. Press "Upload"
+Then you will have more working payloads on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
