@@ -13,3 +13,11 @@ You can access the NFC application from the Main Menu. In the application, you c
 ## NFC hardware
 Flipper Zero has a built-in NFC module based on an ST25R3916 NFC chip and a 13.56 MHz high-frequency antenna. The chip is used for high-frequency protocols and is responsible for reading and emulation of cards. <br>
 The high-frequency 13.56 MHz antenna is placed on the Dual Band RFID antenna next to the low-frequency 125 kHz antenna. <br>
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `NFC` folder
+4. Press "Upload"
+Then you will have more working `NFC` files on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
