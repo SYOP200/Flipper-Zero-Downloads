@@ -6,3 +6,12 @@ Files for Sub Ghz. Playlists alredy premade for you! <br>
 Plug-in and use.
 ## Create your own
 Depending on your firmware, you can create your own playlists in the app `Sub Ghz. Playlist`
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `app assets` folder
+4. Fing "Sub Ghz. Playlist"
+5. Press "Upload"
+Then you will have more working pre-made Sub Ghz. remotes on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
