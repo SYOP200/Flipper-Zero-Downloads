@@ -8,20 +8,21 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 
    
 ## Downloads
-
-- [Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)
-- [GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)
-- [Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)
-- [Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20ghz.%20files)
-- [Infrared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infared)
-- [NFC](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/NFC)
-- [BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)
-- [Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)
-- [RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)
-- [Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)
-- [Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/picopass)
-- [SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)
-- [UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)
+|Download|Description|
+|-|-|
+|[Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)|Firmware files for Flipper Zero and Wifi devboard.|
+|[GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)|GPIO files for your Flipper.|
+|[Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)|Applications and plugins for Flipper Zero.|
+|[Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20ghz.%20files)|Sub Ghz. scripts and remotes for Flipper Zero.|
+|[Infrared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infared)|Infrared files and remotes for Flipper Zero.|
+|[NFC](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/NFC)|Pre-made NFC card files and downloads for Flipper Zero.|
+|[BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)|BadUSB payloads and scripts for Flipper Zero.|
+|[Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)|Pre-made scripts and payloads for Flipper Zero.|
+|[RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)|Pre-made RFID tags and files for Flipper Zero.|
+|[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons and graphics for your Flipper zero. Additional assets are also provided.|
+|[Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/picopass)| Picopass files for your Flipper Zero.|
+|[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
+|[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
 
 [More useful downloads](https://flipper.net/pages/downloads)
 [Documentation](https://docs.flipper.net)
