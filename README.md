@@ -20,6 +20,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)
 - [Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)
 - [Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/picopass)
+- [SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)
 
 ## Terms of Use
 >[!Warning]
