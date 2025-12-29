@@ -39,6 +39,8 @@ The process of installing these frequencys are easy and efective and require no 
 2. Once open, go to your SD card download the files you want on your Flipper Zero in the correct category.
    
 Then test out your new apps, firmware, and more!
+>[!IMPORTANT]
+>If the file you downloaded did not work, please report it as a bug so we can fix the file or remove it.
 
 
 
@@ -48,6 +50,10 @@ GNU General Puclic Licensing
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
  Everyone is permitted to copy and distribute verbatim copies <br>
  of this license document, but changing it is not allowed.
+
+>[!NOTE]
+>This project is not affiliated with Flipper Devices <br>
+>This was developed independently by @SYOP200
 
 ## Notes
 This repo is constantly being worked on. <br> 
