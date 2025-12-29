@@ -101,6 +101,7 @@ You are the ones that keep this comunity going, thank you!
 - [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)
 - Flipper Docs
 - [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)
+- [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)
 ### Contributers
 - Files gathered by @SYOP200 <br>
 <div>
