@@ -18,6 +18,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)
 - [Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)
 - [RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)
+- [Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)
 
 ## Terms of Use
 >[!Warning]
