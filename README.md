@@ -23,6 +23,8 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)
 - [UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)
 
+[More useful downloads](https://flipper.net/pages/downloads)
+
 ## Terms of Use
 >[!Warning]
 >
