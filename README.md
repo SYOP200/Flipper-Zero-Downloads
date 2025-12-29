@@ -2,6 +2,8 @@
 <img width="1024" height="246" alt="pixil-frame-0-4" src="https://github.com/user-attachments/assets/0b4770bc-bd89-433e-9c79-e38b815bfbeb" />
   
   ![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+  [![License](https://img.shields.io/badge/License-GNU-00D9FF?style=for-the-badge)](LICENSE)
+
 ## FLIPPER ZERO DOWNLOADS
 A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some custom firmware and apps! 
 <h3>
@@ -24,7 +26,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 |[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
 |[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
 
-[More useful downloads](https://flipper.net/pages/downloads) - [Documentation](https://docs.flipper.net) - [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware)
+[More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware)
 
 ## Terms of Use
 >[!Warning]
