@@ -9,3 +9,11 @@ You can access the 125 kHz RFID application from the Main Menu. In the applicati
 - Saved: lists saved cards that can be emulated and written to a rewritable card.
 - Add Manually: generates new virtual LF RFID cards by entering the cards’ ID.  
 - Extra Actions: allows to read LF RFID cards with a preselected ASK or PSK coding.
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `RFID` folder
+4. Press "Upload"
+Then you will have more working `RFID` tags on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
