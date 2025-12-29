@@ -24,6 +24,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 - [UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)
 
 [More useful downloads](https://flipper.net/pages/downloads)
+[Documentation](https://docs.flipper.net)
 
 ## Terms of Use
 >[!Warning]
@@ -101,7 +102,7 @@ You are the ones that keep this comunity going, thank you!
 - [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
 - @UberGuidoZ -Various files
 - [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)
-- Flipper Docs
+- [Flipper Docs](https://docs.flipper.net)
 - [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)
 - [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)
 ### Contributers
