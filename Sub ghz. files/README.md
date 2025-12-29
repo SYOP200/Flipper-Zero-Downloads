@@ -13,5 +13,12 @@ You can access the Sub-GHz application from the Main Menu. In the application, y
 - Region Information: provides information about your region and lists frequencies allowed for transmission. For more information about regions, visit Frequencies.
 - Radio Settings: enables switching between the internal antenna and the external antenna if connected.
 
-
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `Sub Ghz.` folder
+4. Press "Upload"
+Then you will have more working `Sub Ghz.` remotes on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
 
