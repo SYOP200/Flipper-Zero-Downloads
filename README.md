@@ -95,6 +95,7 @@ You are the ones that keep this comunity going, thank you!
 - [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
 - @UberGuidoZ -Various files
 - [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)
+- Flipper Docs
 ### Contributers
 - Files gathered by @SYOP200 <br>
 <div>
