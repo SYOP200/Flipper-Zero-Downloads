@@ -94,7 +94,7 @@ You are the ones that keep this comunity going, thank you!
 - [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
 - [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
 - @UberGuidoZ -Various files
-
+- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)
 ### Contributers
 - Files gathered by @SYOP200 <br>
 <div>
