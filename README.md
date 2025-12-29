@@ -47,7 +47,7 @@ Directly copying the .ir files to the Flipper's SD card is the fastest and safes
 
 > [!IMPORTANT]
 > Because of Flipper limitations, the transfer via QFlipper can take a long time, depending on how many files you want to copy.
-> If you only want to copy several files, this will work fine, but if you want to load the entire Flipper-IRDB onto your Flipper, **we strongly recommend copying the files directly onto the SD card**.
+> If you only want to copy several files, this will work fine, but if you want to load the entire repo. onto your Flipper, **we strongly recommend copying the files directly onto the SD card**.
 
 1. [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [Download and extract](https://github.com/logickworkshop/Flipper-IRDB/archive/refs/heads/main.zip) this repository to your computer.
 2. Connect your Flipper to your PC using a USB-C cable.
