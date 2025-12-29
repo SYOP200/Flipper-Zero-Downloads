@@ -27,6 +27,6 @@ Other .ps files- IamJackoboy <br>
 3. Open the `apps` folder
 4. Press "Upload"
 Then you will have more working apps on your Flipper!
->[IMPORTANT]
+>[!IMPORTANT]
 > If a file does not work properly, report it in discussions or create an issue.
   
