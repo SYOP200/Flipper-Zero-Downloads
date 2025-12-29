@@ -12,5 +12,12 @@ You can access the Infrared application from the Main Menu. In the application, 
 ## Infrared hardware
 Flipper Zero has a built-in Infrared module consisting of an IR light transparent plastic window, three transmitting infrared LEDs, and an infrared receiver.
 
-
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `Infrared` folder
+4. Press "Upload"
+Then you will have more working `.ir` remotes on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
 
