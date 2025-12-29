@@ -4,6 +4,9 @@
 ## Aplications
 Plugins from many different developers. <br>
 If an app does not work properly, report it as an issue so we can fix it accordingly.
+## How they work
+Applications go right into the `apps` folder in your SD card. <br>
+These apps can allow you to do things that you cound not do before on your Flipper Zero.
 ## List
 Bluetooth- UberGuidoZ:Flipper <br>
 Infrared- UberGuidoZ:Flipper <br>
@@ -18,4 +21,12 @@ Tools- UberGuidoZ:Flipper <br>
 USB- UberGuidoZ:Flipper <br>
 iButton- UberGuidoZ:Flipper <br>
 Other .ps files- IamJackoboy <br>
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `apps` folder
+4. Press "Upload"
+Then you will have more working apps on your Flipper!
+>[IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
   
