@@ -9,3 +9,11 @@ Before using your Flipper Zero as a BadUSB device, you need to write a payload i
 Once the payload is created, you can upload it to your Flipper Zero via qFlipper or Flipper Mobile App to the `SD Card/badusb/ folder`. The new payloads will be available in the Bad USB application.
 >[!CAUTION]
 > Make sure SD card is properly inserted when using BadUSB payloads.
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `BadUSB` folder
+4. Press "Upload"
+Then you will have more working payloads on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
