@@ -100,5 +100,6 @@ You are the ones that keep this comunity going, thank you!
 <div>
    
 </div>
+<img width="105" height="78" alt="page_downloads_graphics_logo_orange" src="https://github.com/user-attachments/assets/b75fd170-39f9-4d21-a1ed-f93c4edd21e0" />
 
 **If you found this repository useful, star this repository!**
