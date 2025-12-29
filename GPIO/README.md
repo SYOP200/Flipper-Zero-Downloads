@@ -23,4 +23,11 @@ Flipper Zero has 18 pins on the top side, consisting of power supply pins and I/
 
 I/O pins connect external modules to the I/O pins of the STM32WB55 microcontroller through 51 Ohm resistors. All pins are electrostatic discharge (ESD) protected
 
-
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `GPIO` folder
+4. Press "Upload"
+Then you will have more working GPIO add-ons on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
