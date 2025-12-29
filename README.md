@@ -3,6 +3,9 @@
   
   ![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
   [![License](https://img.shields.io/badge/License-GNU-00D9FF?style=for-the-badge)](LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
 
 ## FLIPPER ZERO DOWNLOADS
 A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some custom firmware and apps! 
@@ -26,7 +29,14 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 |[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
 |[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
 
+
+  
 [More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware)
+
+
+
+---
+
 
 ## Terms of Use
 >[!Warning]
@@ -44,7 +54,7 @@ A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some
 
 ### Method 1: Copy Files to SD Card
 
-Directly copying the .ir files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly.
+Directly copying the files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly.
 
 1. [Download and extract](https://github.com/logickworkshop/Flipper-IRDB/archive/refs/heads/main.zip) or [Git-clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo to your computer.
 2. Open the downloaded / cloned repository in a File Explorer.
