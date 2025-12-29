@@ -6,6 +6,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
+
 
 
 
