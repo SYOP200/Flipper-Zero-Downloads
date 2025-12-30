@@ -13,7 +13,8 @@
 
 
 ## FLIPPER ZERO DOWNLOADS
-Curated collection of plugins, files, and firmware for your Flipper Zero.
+I’ve been working with the Flipper Zero for a while and noticed that useful files, scripts, and plugins are scattered all over the place. So I put together this curated GitHub repo that collects commonly used Flipper Zero assets in one spot.
+
 <h3>
 
    
@@ -55,6 +56,8 @@ Curated collection of plugins, files, and firmware for your Flipper Zero.
 > Users are at fault of these rules. <br>
 > Check local laws before using these files. <br>
 
+## About
+This repository was created so that you dont have to find Flipper Zero files yourself. This repository has all of the resources for you if you are new to Flipper Zero or you just want to get more files. Either way, you are welcome here!
 ## Installation
 
 ### Method 1: Copy Files to SD Card
@@ -129,4 +132,6 @@ You are the ones that keep this comunity going, thank you!
 </div>
 <img width="105" height="78" alt="page_downloads_graphics_logo_orange" src="https://github.com/user-attachments/assets/b75fd170-39f9-4d21-a1ed-f93c4edd21e0" />
 
-**If you found this repository useful, star this repository!**
+**If you have suggestions, files to contribute, or ideas for organizing it better, I’d love feedback.** <br>
+**And if it helps you out, a ⭐ on the repo helps others find it too.**
+---
