@@ -13,7 +13,7 @@
 
 
 ## FLIPPER ZERO DOWNLOADS
-A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some custom firmware and apps! 
+Curated collection of plugins, files, and firmware for your Flipper Zero.
 <h3>
 
    
