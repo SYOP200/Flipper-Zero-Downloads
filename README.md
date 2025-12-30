@@ -1,7 +1,7 @@
 <h3>
 <img width="1024" height="246" alt="pixil-frame-0-4" src="https://github.com/user-attachments/assets/0b4770bc-bd89-433e-9c79-e38b815bfbeb" />
   
-  [![License](https://img.shields.io/badge/License-GNU-00D9FF?style=for-the-badge)](LICENSE)
+  [![License](https://img.shields.io/badge/License-GPL-00D9FF?style=for-the-badge)](LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/SYOP200/Flipper-Zero-Downloads?style=for-the-badge)
