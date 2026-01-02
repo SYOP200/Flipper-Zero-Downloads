@@ -37,7 +37,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 
 
   
-[More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware)
+[More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Documentation)
 
 
 
