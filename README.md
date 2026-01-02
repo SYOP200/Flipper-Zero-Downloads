@@ -30,7 +30,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 |[BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)|BadUSB payloads and scripts for Flipper Zero.|Added more payloads|
 |[Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)|Pre-made scripts and payloads for Flipper Zero.|
 |[RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)|Pre-made RFID tags and files for Flipper Zero.|
-|[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons and graphics for your Flipper zero. Additional assets are also provided.|
+|[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons, assets and graphics for your Flipper zero.|
 |[Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/picopass)| Picopass files for your Flipper Zero.|
 |[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
 |[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
