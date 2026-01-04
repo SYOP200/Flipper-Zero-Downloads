@@ -120,11 +120,13 @@ You are the ones that keep this comunity going, thank you!
 - [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 - [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
 - [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
-- @UberGuidoZ -Various files
+- @UberGuidoZ
 - [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)
 - [Flipper Docs](https://docs.flipper.net)
 - [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)
 - [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)
+- @I-Am-Jakoby
+- @kbembedded
 ### Contributers
 - Files gathered by @SYOP200 <br>
 <div>
