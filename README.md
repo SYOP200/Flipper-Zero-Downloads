@@ -127,6 +127,7 @@ You are the ones that keep this comunity going, thank you!
 - [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)
 - @I-Am-Jakoby
 - @kbembedded
+- [Flipper Zero NFC Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls/tree/main)
 ### Contributers
 - Files gathered by @SYOP200 <br>
 <div>
