@@ -8,7 +8,7 @@ The Flipper Zero is able to run Jvascript files through the `scripts` applicatio
 |`chrome-pass-stealer.txt`|Password stealer used in chrome.|
 |`saved_passwords.txt`|Searches for saved passwords on a device.|
 |`WiFi_passwords_win.txt`|Captures saved WIFI passwords on a device.|
-|`RickRoll_YT_Win.txt`|Redirects a user's interface to "Never Gonna Give You Up" on Youtube
+|`RickRoll_YT_Win.txt`|Redirects a user's interface to "Never Gonna Give You Up" on Youtube|
 ## Installation
 1. Navigate to QFlipper
 2. Go to your SD card
