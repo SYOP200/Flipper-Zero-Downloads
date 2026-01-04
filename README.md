@@ -118,20 +118,22 @@ If you have issues or need assistance please communicate in our discussions and 
 You are the ones that keep this comunity going, thank you!
  
 ## Credits
-- Momentum Firmware
-- SubSpectra Firmware
-- Xtreme Firmware
-- [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
-- [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
-- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)
-- @UberGuidoZ
-- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)
-- [Flipper Docs](https://docs.flipper.net)
-- [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)
-- [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)
-- @I-Am-Jakoby
-- @kbembedded
-- [Flipper Zero NFC Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls/tree/main)
+|Author| Files 
+|-|-|
+|- Momentum Firmware|Firmware download|
+|- SubSpectra Firmware|Firmware download|
+|- Xtreme Firmware|Firmware download|  
+|- [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)|IR files|
+|- [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)|BadUSB payloads|
+|- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)|RFID files|
+|- @UberGuidoZ|Various files|
+|- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)|Scripts and payloads|
+|- [Flipper Docs](https://docs.flipper.net)|Information|
+|- [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)|Application file|
+|- [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)|Various files|
+|- @I-Am-Jakoby|BadUSB payloads and scripts|
+|- @kbembedded|GPIO files|
+|- [Flipper Zero NFC Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls/tree/main)|NFC files|
 ### Contributers
 - Files gathered by @SYOP200 <br>
 <div>
