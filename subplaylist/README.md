@@ -5,7 +5,8 @@
 Files for Sub Ghz. Playlists alredy premade for you! <br>
 Plug-in and use.
 ## Create your own
-Depending on your firmware, you can create your own playlists in the app `Sub Ghz. Playlist`
+Depending on your firmware, you can create your own playlists in the app `Sub Ghz. Playlist` <br>
+If you do not have this app you can get it from [Flipper Lab](https://lab.flipper.net)
 ## Installation
 1. Navigate to QFlipper
 2. Go to your SD card
