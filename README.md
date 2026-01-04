@@ -15,6 +15,10 @@
 ## FLIPPER ZERO DOWNLOADS
 I’ve been working with the Flipper Zero for a while and noticed that useful files, scripts, and plugins are scattered all over the place. So I put together this curated GitHub repo that collects commonly used Flipper Zero assets in one spot.
 
+
+I do not own these files. They belong to their respective owners, mostly listed in the credits.
+
+
 <h3>
 
    
