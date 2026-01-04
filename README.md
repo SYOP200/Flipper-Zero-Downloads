@@ -118,8 +118,8 @@ If you have issues or need assistance please communicate in our discussions and 
 You are the ones that keep this comunity going, thank you!
  
 ## Credits
-|Author| Files 
-|-|-|
+|Author| Files | Author| Files|
+|-|-|-|-|
 |- Momentum Firmware|Firmware download|
 |- SubSpectra Firmware|Firmware download|
 |- Xtreme Firmware|Firmware download|  
