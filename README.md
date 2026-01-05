@@ -120,7 +120,7 @@ You are the ones that keep this comunity going, thank you!
 ## Credits
 |Author| Files | Author| Files|
 |-|-|-|-|
-|- Momentum Firmware|Firmware download|
+|- Momentum Firmware|Firmware download|- Flipper-zero-files| GPIO files|
 |- SubSpectra Firmware|Firmware download|
 |- Xtreme Firmware|Firmware download|  
 |- [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)|IR files|
