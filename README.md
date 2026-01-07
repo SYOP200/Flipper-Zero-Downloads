@@ -15,8 +15,8 @@
 ## FLIPPER ZERO DOWNLOADS
 I’ve been working with the Flipper Zero for a while and noticed that useful files, scripts, and plugins are scattered all over the place. So I put together this curated GitHub repo that collects commonly used Flipper Zero assets in one spot.
 
-
-I do not own these files. They belong to their respective owners, mostly listed in the credits.
+>[!IMPORTANT]
+> I do not own these files. They belong to their respective creators, mostly listed in the credits.
 
 
 <h3>
@@ -43,6 +43,8 @@ I do not own these files. They belong to their respective owners, mostly listed 
   
 [More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Documentation)
 
+>[!TIP]
+> These links will take you to other important resources too.
 
 
 ---
@@ -118,10 +120,12 @@ If you have issues or need assistance please communicate in our discussions and 
 You are the ones that keep this comunity going, thank you!
  
 ## Credits
+These are the creators, or scavengers, that own or curate the provided files.
+
 |Author| Files | Author| Files|
 |-|-|-|-|
 |- Momentum Firmware|Firmware download|- Flipper-zero-files| GPIO files|
-|- SubSpectra Firmware|Firmware download|
+|- SubSpectra Firmware|Firmware download|[-Flipper Docs](https://docs.flipper.net)|Images|
 |- Xtreme Firmware|Firmware download|  
 |- [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)|IR files|
 |- [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)|BadUSB payloads|
