@@ -16,12 +16,22 @@ Learn wiring + electronics safely.
 - avoid shorts
 - don’t connect unknown power
 
-# Pin layout
 
->[!CAUTION]
-> Putting the pins for any GPIO device on wrong can result in irreversible damage to your hardware.
+## Images
+Flipper Zero has 18 pins on the top side, consisting of power supply pins and I/O pins. Power supply pins can be used to power your external modules. Input/output (I/O) pins are +3.3 V <br> tolerant for input and output. For more information, see 3.3 V and 5 V tolerance.
 
-![Unknown](https://github.com/user-attachments/assets/239f7175-28fb-4ac6-9ab3-3c8b45ef36b5)
+---
 
-<img width="500" height="1000" alt="images" src="https://github.com/user-attachments/assets/bc66fb4e-f9ce-4db7-bb1a-76fd84575d9d" />
+### Module GPIO
 
+<img width="5000" height="1000" alt="pin layout" src="https://github.com/user-attachments/assets/5bf90e1c-2740-4355-9db2-98efb728a1c7" />
+
+### Pin Layout
+
+![rDj495vJHGg8Ae5H_4vdo_image png](https://github.com/user-attachments/assets/d0e1d266-a9f5-487a-a1c0-201e7220235c)
+
+### Pin Layout 2
+
+![zRucuAM1fjos-_rn5VdBb_flipperzeropinout jpg](https://github.com/user-attachments/assets/a0538a23-c729-48b7-85c1-48f6286d831a)
+
+---
