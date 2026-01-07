@@ -12,3 +12,11 @@
 
 Follow your country’s radio laws.
 
+## Sub Ghz. Menu
+
+![_yl6oxmqzaB7G7BFLSkgu_monosnap-miro-2023-07-14-13-17-38 jpg](https://github.com/user-attachments/assets/3fadacc2-ee40-45e8-a275-8f4902472fcc)
+
+## Sub Ghz. Hardware
+
+![iWJNVsM0quT9-4IdFRVEq_monosnap-miro-2023-07-14-13-19-38 jpg](https://github.com/user-attachments/assets/059d4e24-9345-4269-9a2c-eb4e06b1ad36)
+
