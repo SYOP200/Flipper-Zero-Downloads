@@ -20,15 +20,11 @@ You can use your Flipper Zero for hardware exploration, firmware flashing, debug
 ## Pin layout
 Flipper Zero has 18 pins on the top side, consisting of power supply pins and I/O pins. Power supply pins can be used to power your external modules. Input/output (I/O) pins are +3.3 V <br> tolerant for input and output. For more information, see 3.3 V and 5 V tolerance.
 
-<p> Flipper Zero GPIO Pinout </p>
+<img width="500" height="500" alt="pin layout" src="https://github.com/user-attachments/assets/5bf90e1c-2740-4355-9db2-98efb728a1c7" />
 
-<img src="./otherFiles/GPIO/Flipper_Zero_GPIO_Pinout_v2.jpg" alt="FlipperGPIO" width="800"/><br>
+![Unknown](https://github.com/user-attachments/assets/44c25eb5-7b12-43b2-8c0c-7aa6f57b054c)
 
-<small>
-    <a href="https://cdn.flipperzero.one/Flipper_Zero_GPIO_Pinout_v2.jpg">Image Source</a><br>
-</small>
 
-</div>
 
 I/O pins connect external modules to the I/O pins of the STM32WB55 microcontroller through 51 Ohm resistors. All pins are electrostatic discharge (ESD) protected
 
