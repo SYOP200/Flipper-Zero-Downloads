@@ -18,7 +18,8 @@
 > [Playlists](playlists.md)
 
 ---
-
+Check out some documentation for developers!
+[here](https://developer.flipper.net/flipperzero/doxygen/index.html)
 ## Flipper-Zero Downloads — Documentation
 
 Each document explains:
