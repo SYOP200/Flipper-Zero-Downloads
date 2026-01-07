@@ -12,3 +12,9 @@
 
 Learning files only.
 
+## RFID Hardware
+
+![5eSBYsSUbS2T87YGVZBjz_image png](https://github.com/user-attachments/assets/5854bbf8-0a73-4811-bce9-e8129e888f6d)
+
+![quAVWEi_M28-IALyI6BMO_image png](https://github.com/user-attachments/assets/6352abd5-0da4-445e-837d-9613bb23ddc2)
+
