@@ -22,3 +22,15 @@ BadUSB makes the device type scripted keystrokes.
 ## 📂 Location
 
 `badusb` folder in qflipper   
+
+## How to install
+
+https://github.com/user-attachments/assets/cda1512c-024c-40de-ad00-bf18e9e85e80
+
+### Payload screen
+
+![3GUDYkC5JgUWgo6RW8piO-omz_V33ZLFGQ2rbXBT8Ox-20250123-160117 jpg](https://github.com/user-attachments/assets/78bfbfe0-fd35-4fc2-8f90-9381277d948e)
+
+---
+
+
