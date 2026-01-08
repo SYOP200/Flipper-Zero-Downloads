@@ -11,4 +11,10 @@
 UniRF Remix (for Flipper Zero): <br>
 This is a popular third-party plugin for the Flipper Zero multi-tool device. It allows users to quickly replay saved RAW radio frequency (RF) captures by binding them to the device's D-pad buttons, effectively creating shortcuts for various remote signals (e.g., garage door openers).
 
+
+## UniRF Notes
+
+UniRF is only available on the app in Xtreme firmware or Rougemaster firmware. If you want to install them, they are listed in the firmware tab.
+
+
 -----
