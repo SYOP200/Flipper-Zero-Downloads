@@ -1,10 +1,12 @@
-## FLIPPER ZERO DOWNLOADS
-A ton of Flipper zero files such as, Sub Ghz files, Rf files, IR files, and some custom firmware and apps! 
-<img width="1396" height="335" alt="pixil-frame-0" src="https://github.com/user-attachments/assets/6b7dfb4e-4581-4d3c-9394-dc3476cb59d7" />
+
+<img width="1024" height="246" alt="pixil-frame-0-4" src="https://github.com/user-attachments/assets/0b4770bc-bd89-433e-9c79-e38b815bfbeb" />
   
-  ![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-
-
+  [![License](https://img.shields.io/badge/License-GPL-00D9FF?style=flat-square)](LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/SYOP200/Flipper-Zero-Downloads?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/SYOP200/Flipper-Zero-Downloads?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/SYOP200/Flipper-Zero-Downloads?style=flat-square)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SYOP200/Flipper-Zero-Downloads?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/SYOP200/Flipper-Zero-Downloads?style=flat-square)
 ---
    
 ## Downloads
