@@ -1,0 +1,47 @@
+<h3>
+<img width="1024" height="246" alt="pixil-frame-0-4" src="https://github.com/user-attachments/assets/0b4770bc-bd89-433e-9c79-e38b815bfbeb" />
+
+## GPIO
+You can use your Flipper Zero for hardware exploration, firmware flashing, debugging, and fuzzing. Flipper Zero can be connected to hardware using its built-in GPIO pins, control hardware with buttons, run your code, and show debug messages on the screen. Flipper Zero can also be used as a USB to UART/SPI/I2C converter.
+
+```
+
+    Insert a microSD card to use the GPIO app
+
+    Before using the GPIO app, make sure to update your Flipper Zero firmware with a microSD card inserted since Flipper Zero stores databases on a microSD card. For more information about the update process, visit the Firmware update page.  
+
+```
+
+<div class="warning flipper-callout">
+    <div class="callout-header">Insert a microSD card to use the GPIO app</div>
+    Before using the GPIO app, make sure to update your Flipper Zero firmware with a microSD card inserted since Flipper Zero stores databases on a microSD card. For more information about the update process, visit the <a href="https://docs.flipperzero.one/basics/firmware-update" onclick="next.router.push('https://docs.flipperzero.one/basics/firmware-update')"><u>Firmware update</u> page.  
+</div>
+
+      
+## Images
+Flipper Zero has 18 pins on the top side, consisting of power supply pins and I/O pins. Power supply pins can be used to power your external modules. Input/output (I/O) pins are +3.3 V <br> tolerant for input and output. For more information, see 3.3 V and 5 V tolerance.
+
+---
+
+### Module GPIO
+
+<img width="5000" height="1000" alt="pin layout" src="https://github.com/user-attachments/assets/5bf90e1c-2740-4355-9db2-98efb728a1c7" />
+
+### Pin Layout
+
+![rDj495vJHGg8Ae5H_4vdo_image png](https://github.com/user-attachments/assets/d0e1d266-a9f5-487a-a1c0-201e7220235c)
+
+### Pin Layout 2
+
+![zRucuAM1fjos-_rn5VdBb_flipperzeropinout jpg](https://github.com/user-attachments/assets/a0538a23-c729-48b7-85c1-48f6286d831a)
+
+---
+
+## Installation
+1. Navigate to QFlipper
+2. Go to your SD card
+3. Open the `GPIO` folder
+4. Press "Upload"
+Then you will have more working GPIO add-ons on your Flipper!
+>[!IMPORTANT]
+> If a file does not work properly, report it in discussions or create an issue.
