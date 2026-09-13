@@ -86,6 +86,10 @@ This repository was created so that you don't have to find Flipper Zero files yo
 More files can be found [here](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/extra)
 ## Installation
 
+Install files:
+```bash
+git clone https://github.com/SYOP200/Flipper-Zero_Downloads
+```
 ### Method 1: Copy Files to SD Card
 
 Directly copying the files to the Flipper's SD card is the fastest and safest method, but you have to [dismount the SD card](https://docs.flipperzero.one/basics/sd-card#g4-removing-the-sd-card) and plug it into the computer directly. <br>
