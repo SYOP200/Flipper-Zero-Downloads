@@ -148,7 +148,7 @@ const PAGES = {
       <p>Files are provided as-is, gathered from the community, and are up to date as of when they were added. They may stop working after a firmware update, and some are experimental by nature.</p>
 
       <h2>License</h2>
-      <p>The repository is distributed under the <strong>GNU General Public License v3.0</strong>. You're free to copy and redistribute it under the same terms; individual files may carry their own license from their original author — see <code>Credits</code>.</p>
+      <p>The repository is distributed under the <strong>MIT license</strong>. You're free to copy and redistribute it under the same terms; individual files may carry their own license from their original author — see <code>Credits</code>.</p>
     `,
   },
 
