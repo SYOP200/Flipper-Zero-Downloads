@@ -5,7 +5,7 @@
 <div align="center">
   
   ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-Compatible-orange?style=flat-square)
-  [![License](https://img.shields.io/badge/License-GPL-00D9FF?style=flat-square)](LICENSE)
+  [![License](https://img.shields.io/badge/License-MIT-00D9FF?style=flat-square)](LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/SYOP200/Flipper-Zero-Downloads?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/SYOP200/Flipper-Zero-Downloads?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/SYOP200/Flipper-Zero-Downloads?style=flat-square)
