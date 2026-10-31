@@ -88,7 +88,7 @@ More files can be found [here](https://github.com/SYOP200/Flipper-Zero-Downloads
 
 Install files:
 ```bash
-git clone https://github.com/SYOP200/Flipper-Zero_Downloads
+git clone https://github.com/SYOP200/Flipper-Zero-Downloads
 ```
 ### Method 1: Copy Files to SD Card
 
